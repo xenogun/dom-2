@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 7rem auto;
+}
+
+#color-box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(33, 146, 18);
+    display: flex;
+    padding-left:10rem;
+}
+
+#change-color-btn{
+    margin-top: 1rem;
+    padding: 20px 30px;
+    background-color: rgb(180, 33, 33);
+    border: none;
+    cursor: pointer;
+}
